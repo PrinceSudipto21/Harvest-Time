@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252718850084",
+    "project_id": "harvest-time-132bf",
+    "storage_bucket": "harvest-time-132bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252718850084:android:30deda3e6dc18a12e8b8b1",
+        "android_client_info": {
+          "package_name": "com.mycompany.harvesttime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBhw2YPdTZXoumuEH4ORQTAtz33FfBV9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
